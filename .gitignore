@@ -1,0 +1,15 @@
+---
+
+## ⚙️ .gitignore
+
+This file tells Git to ignore files that contain sensitive secrets or are generated during runtime.
+
+```gitignore
+# Python
+__pycache__/
+*.pyc
+
+# Telegram Bot & API Keys
+# These files contain sensitive tokens and should NOT be committed.
+BOT_TOKEN
+MAPS_TOKEN
