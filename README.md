@@ -49,9 +49,8 @@ A Telegram bot built with Python that uses the **Google Places API (New)** to fi
 
 4.  **Run the bot:**
     ```bash
-    python your_script_name.py
+    python bot.py
     ```
-    (Replace `your_script_name.py` with the actual name of your main Python file).
 
 ## ⚠️ Important API Notes
 
